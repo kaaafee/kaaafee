@@ -12,6 +12,4 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Ka-Python" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ka-Python" height="20" width="30" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg>
-    
-![Snake animation](https://github.com/kaaafee/kaaafee/blob/output/github-contribution-grid-snake.svg)
 
