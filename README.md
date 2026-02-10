@@ -1,6 +1,6 @@
 ### Olá, sou a Karina Albuquerque!
 
-- 🔭 Atualmente trabalho como estagiária de Data Analytics e estou aprendendo Python, R e Alteryx.
+- 🔭 Tecnóloga em Ciencia de Dados pela FATEC, analista de planejamento de MMOTA na indústria automotiva, experiência com Alteryx, BigQuery, Power-BI, metodologia ágil e JIRA, estudando Python, R, GenAI, SQL.
 - 👯 Pronomes: ela/dela
 
 
