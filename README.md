@@ -1,6 +1,6 @@
 ### Olá, sou a Karina Albuquerque!
 
-- 🔭 Tecnóloga em Ciencia de Dados pela FATEC, analista de planejamento de MMOTA na indústria automotiva, experiência com Alteryx, BigQuery, Power-BI, metodologia ágil e JIRA, estudando Python, R, GenAI e SQL.
+- 🔭 Tecnóloga em Ciência de Dados pela FATEC em SP, analista de planejamento de MMOTA na indústria automotiva, experiência com Alteryx, BigQuery, Power-BI, metodologia ágil e JIRA, estudando Python, R, GenAI e SQL.
 - 👯 Pronomes: ela/dela
 
 
